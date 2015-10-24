@@ -1,1 +1,1 @@
-nul is ./nul
+Made this during compilers in Fall 2015, a recursive calculator solving + - * / % ^ operators. Parenthesis also work.
